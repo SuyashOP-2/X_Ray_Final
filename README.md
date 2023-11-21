@@ -2,7 +2,7 @@
 Final Year college Project
 
 ### Note:
-Manual folder contains temporary work which detects the location of fracture in a given x-ray image manually(not totally, tho;)
+Manual folder contains temporary work which detects the location of fracture in a given x-ray image
 
 ### How to run:
 * Clone the repo
